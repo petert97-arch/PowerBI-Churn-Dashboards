@@ -12,4 +12,4 @@ Tools Used:
 - Drillthrough
 
 
-Goal: Develop interactive Power BI dashboards that transforms raw business data into actionable insights through data modeling, visualization, and analytics.
+Goal: Design and develop an end-to-end Power BI dashboard that delivers meaningful business insights using data modeling, DAX, and interactive reporting.
